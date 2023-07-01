@@ -1,0 +1,9 @@
+.main-Skill-Container{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: #1F6E8C;
+}
+h1{
+    margin: 0 auto;
+    }

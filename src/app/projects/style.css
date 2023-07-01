@@ -1,0 +1,9 @@
+.main-Project-Container{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: #FFEEBB;
+}
+h1{
+    margin: 0 auto;
+    }
